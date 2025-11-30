@@ -1,0 +1,8 @@
+[2025-11-28 23:36:47] [INFO] Device node found, proceeding with real test
+[2025-11-28 23:36:47] [INFO] system init complete
+[2025-11-28 23:36:47] [HEARTBEAT] logger alive
+Linux DESKTOP-N3SJV8D 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+[2025-11-28 23:36:47] [INFO] parent waiting for child
+[2025-11-28 23:36:48] [INFO] child exec success
+[2025-11-28 23:36:48] [INFO] system shutdown
+[2025-11-28 23:36:48] [INFO] logger exiting
